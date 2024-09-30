@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 const char* ssid = "Mf-mustafa";    //  Your Wi-Fi Name
-const char* password = "Leonel01@";   // Wi-Fi Password
+const char* password = "Xkıuy01@";   // Wi-Fi Password
 int LED = 2;   // led connected to GPIO2 (D4)
 WiFiServer server(80);
 
